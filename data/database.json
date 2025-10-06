@@ -74,6 +74,61 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "t6f9l-hG3",
+      "uuid": "0464d7bc-91da-495f-ac79-f7662fcdb229",
+      "firstName": "Teste",
+      "lastName": "User",
+      "username": "TesteUser",
+      "password": "$2a$10$au/a5l6G1FOhZhaKJH2xXev1hNxFzcBBmKrlSBlfYwXi3fN2EY4IC",
+      "balance": 0,
+      "createdAt": "2025-10-06T22:16:38.914Z",
+      "modifiedAt": "2025-10-06T22:16:38.914Z"
+    },
+    {
+      "id": "CFQCBgkxK",
+      "uuid": "4b1bbe2a-ecfb-4034-8b30-10d99d963470",
+      "firstName": "Teste",
+      "lastName": "User",
+      "username": "TesteUser",
+      "password": "$2a$10$xqRcHleteyMjR3G9xzBRBeQop7fCqRx9irnByJKqZKw2qC.hivtgK",
+      "balance": 0,
+      "createdAt": "2025-10-06T22:20:07.492Z",
+      "modifiedAt": "2025-10-06T22:20:07.492Z"
+    },
+    {
+      "id": "9RKrvzt_n",
+      "uuid": "57c30a9f-e4da-4796-ba89-d31420a70daa",
+      "firstName": "Teste",
+      "lastName": "User",
+      "username": "TesteUser",
+      "password": "$2a$10$ghgz/wvPcuiCEHROSh8y4u4DpMvl0HeBVpyzyPtoyq3FhE/iHZTXC",
+      "balance": 0,
+      "createdAt": "2025-10-06T22:22:40.086Z",
+      "modifiedAt": "2025-10-06T22:22:40.086Z"
+    },
+    {
+      "id": "ffCFiezo5",
+      "uuid": "b4b2039b-1b57-409c-8979-6128730aed91",
+      "firstName": "Teste",
+      "lastName": "User",
+      "username": "TesteUser",
+      "password": "$2a$10$9x2UQnP9xEmbXd.TMuxEkObK0N7CsgjeL.3hfCt6sLhjCXqhEHmbS",
+      "balance": 0,
+      "createdAt": "2025-10-06T22:28:34.857Z",
+      "modifiedAt": "2025-10-06T22:28:34.857Z"
+    },
+    {
+      "id": "Q2yrYQqZw",
+      "uuid": "a81476a7-2ebf-4eed-9751-0f9794bd6059",
+      "firstName": "Teste",
+      "lastName": "User",
+      "username": "TesteUser",
+      "password": "$2a$10$lKegSNHgmQV8kD1LV7wFN.MbZSzuLr59Lz3JFMZP58hEj.kPPSQ6u",
+      "balance": 0,
+      "createdAt": "2025-10-06T22:35:31.532Z",
+      "modifiedAt": "2025-10-06T22:35:31.532Z"
     }
   ],
   "contacts": [
